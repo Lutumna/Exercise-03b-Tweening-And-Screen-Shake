@@ -20,10 +20,10 @@ Built using Unity 2022.3.45f
  * [League Gothic Typeface](https://www.theleagueofmoveabletype.com/league-gothic)
  
 
-## Future Development
+## Username
 
-Adding a face, Comet trail, Music and Sound, Shaders, etc.
+Lutumna
 
 ## Created by 
 
-Nathan Mishler
+Daniyaal Hussain
